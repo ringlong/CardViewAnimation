@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>56DAED11-F210-457A-8B74-B7CA6705CE6A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>卡片动画</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3415C3147826EC7826818BA550B65F6D1B87B973</key>
+		<string>https://github.com/Neojoke/cardsAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>卡片动画/卡片动画.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3415C3147826EC7826818BA550B65F6D1B87B973</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Neojoke/cardsAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3415C3147826EC7826818BA550B65F6D1B87B973</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3415C3147826EC7826818BA550B65F6D1B87B973</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cardsAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
